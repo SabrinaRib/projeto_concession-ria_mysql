@@ -1,4 +1,4 @@
-#🚗SISTEMA DE GERENCIAMENTO DE CONCESSIONÁRIA (SGC) *****
+#🚗SISTEMA DE GERENCIAMENTO DE CONCESSIONÁRIA (SGC)
 
 >⚠️**ATENÇÃO:**Este projeto encontra-se em fase ativa de DESENVOLVIMENTO!
 
